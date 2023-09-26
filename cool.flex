@@ -228,7 +228,7 @@ QUOTE      	\"
 					case 'n':
 						current_string+='\n';
 						break;
-					case '\f':
+					case 'f':
 						current_string+='\f';
 						break;
 					case '\0':
